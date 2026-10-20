@@ -1,0 +1,15 @@
+ASL WEBSITE - PUBLISH CHECKLIST
+[ ] Confirm domain and replace YOUR-DOMAIN-HERE in sitemap.xml and robots.txt
+[ ] Verify the email address works and update all occurrences if needed
+[ ] Confirm leadership name spelling and all company claims
+[ ] Add a real postal/business address or other appropriate contact information if available
+[ ] Upload site to HTTPS-enabled hosting
+[ ] Check all pages, navigation, links, form and mobile layout
+[ ] Add original portfolio/project examples with permission and accurate descriptions
+[ ] Add more useful original articles over time; avoid thin or copied content
+[ ] Connect Google Search Console and submit sitemap
+[ ] Apply for AdSense only after the live site is complete and useful
+[ ] Paste AdSense's exact code from your account after setup
+[ ] Replace ads.txt placeholder with the exact publisher declaration Google gives you
+[ ] Review privacy/cookie requirements for your actual audience and third-party tools
+[ ] Recheck Google publisher policies before enabling ads
